@@ -1,0 +1,21 @@
+h1{color:red
+font-size: 50px;
+background-color:  lightblue;
+text-align: center;
+width: 50%;
+margin: 0 auto;
+border: 10px solidd black:
+}
+.header:hover{
+    color:blue;
+    border: 5px solid red;
+    transition: 1000ms;
+}
+.personal-info{
+    background-color: lightblue;
+    width: 50%;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 10px;
+    text-align: center;
+}
